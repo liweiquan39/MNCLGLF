@@ -20,6 +20,8 @@ Multi-network Contrastive Learning based on Global and Local Features
 | Fast-MoCo  | 85.93      | 99.57   | 61.39       | 87.31  | 39.91        | 66.26  |
 | MNCLGLF    | 90.18      | 99.78   | 65.20       | 89.72  | 41.70        | 68.36  |
 
+## Visualization
+![image](sources/visualization.png)
 
 ## Acknowledgement
 This work was supported by the National Natural Science Foundation of China under Grant No. 61906098.
